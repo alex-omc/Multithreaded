@@ -4,12 +4,12 @@ Script Multi-Hilos para calcular n! en Java
 El proposito del presente script es hacer un uso total del CPU para calcular la factorial de números grandes
 
 # ¿Cómo Funciona?
-Manera trdicional
+	# Manera trdicional
 
 
 
-Primera propuesta
+	Primera propuesta
 
 
 
-Propuesta final
+	Propuesta final
